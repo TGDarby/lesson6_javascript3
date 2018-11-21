@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+November 20, 2018
 
 ### Student Name:  
-(First and Last Name)
+Thomas Darby
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This assignment creates a photo gallery by accessing elements in the html and content in the CSS with JavaScript, and allows for users to view three or five images at a time by adding nodes.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://tgdarby.github.io/lesson6_javascript3/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. The src attribute of html elements can be changed using JavaScript in order to change page content and make it interactive.
+2. Event listeners can be set up to respond to button clicks and can be turned off after the first click.
+3. Nodes can be created using the createElement() method and can be attached to the DOM tree using appendChild().  
 
